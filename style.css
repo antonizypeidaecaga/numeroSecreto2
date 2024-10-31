@@ -1,0 +1,39 @@
+body {
+	background-color: darkgray;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+.titulo {
+	font-size: 60px;
+	color: royalblue;
+}
+
+.paragrafo1 {
+	font-size: 50px;
+	color:white;
+}
+
+.paragrafo2 {
+	font-size: 50px;
+	color: darkblue;
+
+}
+
+.caixa{
+	padding: 40px;
+	color: black;
+	border-radius: 30px;
+}
+
+.nsei {
+	font-size: 125px;
+	color: darkred;
+	text-align: !important;
+	shape-margin: 400PX;
+	border: 1px solid #ccc;
+	text-decoration-color: blue;
+	margin: 30px auto;
+	cursor
+}
